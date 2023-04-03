@@ -3,7 +3,7 @@
 This is the pytorch implementation of the AAAI 2020 poster paper "Domain Generalization Using a Mixture of Multiple Latent Domains".
 
 ## Requirements
-- A Python install version 3.6
+- A Python install version 3.6.
 - A PyTorch and torchvision installation version 0.4.1 and 0.2.1, respectively. [pytorch.org](https://pytorch.org/)
 - The caffe model we used for [AlexNet](https://drive.google.com/file/d/1wUJTH1Joq2KAgrUDeKJghP1Wf7Q9w4z-/view?usp=sharing)
 - PACS dataset ([website](https://dali-dl.github.io/project_iccv2017.html), [dateset](https://drive.google.com/drive/folders/0B6x7gtvErXgfUU1WcGY5SzdwZVk?resourcekey=0-2fvpQY_QSyJf2uIECzqPuQ))
